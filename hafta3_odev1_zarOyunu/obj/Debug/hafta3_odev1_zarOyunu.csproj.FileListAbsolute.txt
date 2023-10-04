@@ -1,0 +1,7 @@
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\bin\Debug\hafta3_odev1_zarOyunu.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\bin\Debug\hafta3_odev1_zarOyunu.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\bin\Debug\hafta3_odev1_zarOyunu.pdb
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\obj\Debug\hafta3_odev1_zarOyunu.csproj.AssemblyReference.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\obj\Debug\hafta3_odev1_zarOyunu.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\obj\Debug\hafta3_odev1_zarOyunu.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta3_odev1_zarOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta3_odev1_zarOyunu\obj\Debug\hafta3_odev1_zarOyunu.pdb
